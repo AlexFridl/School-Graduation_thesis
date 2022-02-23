@@ -1,0 +1,88 @@
+.divAdminTable{
+    /*padding-left: 50px;*/
+    padding-top: 70px;
+}
+.naslovAdminTable{
+    color: #4B3049;
+    margin-left: 295px;
+}
+.naslovAdminTableZakazani{
+    color: #4B3049;
+    margin-left: 295px;
+}
+
+.adminTable{
+    margin-left: 350px;
+    margin-bottom:50px;
+    width:1000px;
+    border: 2px solid #796f64;
+}
+.linkA{
+    color: #4B3049;
+}
+a:hover {
+    text-decoration: underline;
+    color: #4B3049;
+}
+#log{
+    padding-bottom: 50px;
+}
+#ponuda{
+    padding-bottom: 50px;
+    margin-right: 500px;
+}
+#opisTretmana{
+    margin: 25px;
+    text-align: justify;
+}
+.pocetnaTekst{
+    text-align: justify;
+    color:#4B3049/*#cd5c5c*/;
+    font-weight: normal;
+    font-family:'Rubik',sans-serif;
+}
+
+.navigacija:hover{
+    background-color:#d9c7b2;
+    width:100%;
+}
+.InsertTipTermina{
+    color: #4B3049;
+    margin-left: 286px;
+}
+.blog{
+    width:250px;
+    height: 200px;
+}
+.searchBlog{
+    margin-left: 800px;
+}
+.search{
+    width: 400px;
+}
+
+.blogSection{
+    padding-top: 0px;
+}
+.hidden {
+    opacity: 0.5;
+}
+.poruka{
+    color: #4B3049;
+    /*margin-left: 300px;*/
+    padding-bottom: 50px;
+    text-align: center;
+    color: #4B3049;
+    font-weight: bold;
+}
+.log{
+    font-family:'Rubik, sans-serif';
+    line-height: 2;
+    font-size: 15px;
+    margin-bottom: 0px;
+    color: #795376;
+    font-weight: 400;
+}
+.dropdown .dropdown-menu .dropdown-item{
+    color: #4B3049 !important;
+}
