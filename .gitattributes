@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+/vendor/* linguist-vendored
+/node_modules/* linguist-vendored
+/public/js/* linguist-vendored
+/public/css/* linguist-vendored
+*.blade.php linguist-language=PHP
